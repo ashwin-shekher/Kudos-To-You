@@ -23,7 +23,7 @@
     "cloudinary": "^1.14.0",
     "cloudinary-vue": "^1.0.0-beta2",
     "dom-to-image": "^2.6.0",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "html2canvas": "^1.0.0-rc.3",
     "jspdf": "^1.5.3",
     "vue": "^2.6.10",
